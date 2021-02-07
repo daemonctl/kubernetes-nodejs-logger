@@ -1,4 +1,4 @@
-# Kubernetese workshop sample java & maven hellokubernetes"
+# Kubernetese workshop sample nodejs & npm hellokubernetes"
 
 ------------------------------------------------------------------------
 ```
